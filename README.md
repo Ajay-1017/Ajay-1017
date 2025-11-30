@@ -14,6 +14,5 @@ Electronics and Communication Enginnering Student
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
 
 [![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ajay-1017&bg_color=0d1117&color=ff5757&line=1eeb66&point=f5f6fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
