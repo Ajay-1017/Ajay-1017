@@ -3,7 +3,8 @@
 Electronics and Communication Enginnering Student 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
 - 🌱 I’m currently learning DSA 
-- Engineeing at [<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fschool%2Fsri-venkateswara-college-of-engineering%2F&psig=AOvVaw0Yt0v6H6MfvIvKnB0jhC77&ust=1764560693038000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDovvv6mJEDFQAAAAAdAAAAABAK">](https://www.highbrowtechnology.com/),
+- Engineeing at [<img src="E:\Github\![sri_venkateswara_college_of_engineering_logo](https://github.com/user-attachments/assets/a27b33cd-9c83-4af8-a046-177ac0f6f1d6)
+">](https://www.highbrowtechnology.com/),
 - Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
