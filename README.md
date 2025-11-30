@@ -3,7 +3,7 @@
 Electronics and Communication Enginnering Student 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                                
 - 🌱 I’m currently learning DSA 
--Engineeing at 
+- Engineeing at 
 <a href="https://www.svce.ac.in/">
   <img src="https://cdn.brandfetch.io/idI5oYwMwg/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1703985816344" 
        height="20" 
